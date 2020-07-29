@@ -21,12 +21,13 @@ Hi Devs, beleza? 🖖
 Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhKNTyFgAYYa7)
 
 - [Dia 01 - Ícone de mídia social em camadas](#id01)
+- [Dia 02 - Loader animado](#id02)
 
 ## Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 
-![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
+![Dia 01](./assets/dia01.gif)
 
-[Meu codigo](https://github.com/WilliamJesusDev/30diasDeCSS/tree/master/Desafios/dia01)
+[Meu codigo](./Desafios/dia01)
 
 [Tutorial Medium]() _Ainda não disponivel_
 
@@ -40,3 +41,17 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 - _[Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)_
 - _[hover](https://www.w3schools.com/cssref/sel_hover.asp)_
 - _[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)_
+
+## Desafio dia 02 - Loader animado <a name="id02"></a>
+
+![Dia 02](./assets/dia02.gif)
+
+[Meu código](./Desafios/dia02)
+
+[Tutorial Medium]() _Ainda não disponivel_
+
+[Post LinkedIn](https://www.linkedin.com/posts/williamjesusdev_30diasdecss-html-html5-activity-6694383670268063744-egRK)
+
+##### O que eu aprendi
+
+- _[animations](https://www.w3schools.com/css/css3_animations.asp)_
