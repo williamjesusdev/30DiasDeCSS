@@ -22,6 +22,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 
 - [Dia 01 - Ícone de mídia social em camadas](#id01)
 - [Dia 02 - Loader animado](#id02)
+- [Dia 03 - Mudança de cor de texto quando entra em outra div](#id03)
 
 ## Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 
@@ -54,4 +55,20 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 
 ##### O que eu aprendi
 
+- _[animations](https://www.w3schools.com/css/css3_animations.asp)_
+
+## Desafio dia 03 - Mudança de cor de texto quando entra em outra div <a name="id03"></a>
+
+![Dia 03](./assets/dia03.gif)
+
+[Meu código](./Desafios/dia03)
+
+[Tutorial Medium]() _Ainda não disponivel_
+
+[Post LinkedIn](https://www.linkedin.com/posts/williamjesusdev_30diasdecss-html-html5-activity-6694783541324070912-3Krs)
+
+##### O que eu aprendi
+
+- _[overflow](https://www.w3schools.com/css/css_overflow.asp)_
+- _[positions](https://www.w3schools.com/css/css_positioning.asp)_
 - _[animations](https://www.w3schools.com/css/css3_animations.asp)_
