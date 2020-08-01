@@ -23,14 +23,13 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 - [Dia 01 - Ícone de mídia social em camadas](#id01)
 - [Dia 02 - Loader animado](#id02)
 - [Dia 03 - Mudança de cor de texto quando entra em outra div](#id03)
+- [Dia 04 - Botão Animado](#id04)
 
 ## Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 
 ![Dia 01](./assets/dia01.gif)
 
 [Meu codigo](./Desafios/dia01)
-
-[Tutorial Medium]() _Ainda não disponivel_
 
 [Post LinkedIn](https://www.linkedin.com/posts/williamjesusdev_30diasdecss-html-html5-activity-6693909392074543105-7p1C)
 
@@ -49,8 +48,6 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 
 [Meu código](./Desafios/dia02)
 
-[Tutorial Medium]() _Ainda não disponivel_
-
 [Post LinkedIn](https://www.linkedin.com/posts/williamjesusdev_30diasdecss-html-html5-activity-6694383670268063744-egRK)
 
 ##### O que eu aprendi
@@ -63,8 +60,6 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 
 [Meu código](./Desafios/dia03)
 
-[Tutorial Medium]() _Ainda não disponivel_
-
 [Post LinkedIn](https://www.linkedin.com/posts/williamjesusdev_30diasdecss-html-html5-activity-6694783541324070912-3Krs)
 
 ##### O que eu aprendi
@@ -72,3 +67,17 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 - _[overflow](https://www.w3schools.com/css/css_overflow.asp)_
 - _[positions](https://www.w3schools.com/css/css_positioning.asp)_
 - _[animations](https://www.w3schools.com/css/css3_animations.asp)_
+
+## Desafio dia 04 - Botão Animado <a name="id04"></a>
+
+![Dia 03](./assets/dia04.gif)
+
+[Meu código](./Desafios/dia04)
+
+[Post LinkedIn](https://www.linkedin.com/posts/williamjesusdev_30diasdecss-html-html5-activity-6695148503905120256-unf5)
+
+##### O que eu aprendi
+
+- _[inline-block](https://www.w3schools.com/css/css_inline-block.asp)_
+- _[svg](https://www.w3schools.com/graphics/svg_intro.asp)_
+- _[svg rectangle](https://www.w3schools.com/graphics/svg_rect.asp)_
