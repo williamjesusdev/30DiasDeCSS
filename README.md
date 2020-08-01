@@ -24,6 +24,9 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 - [Dia 02 - Loader animado](#id02)
 - [Dia 03 - Mudança de cor de texto quando entra em outra div](#id03)
 - [Dia 04 - Botão Animado](#id04)
+- [Dia 05 - Botão Efeito Pulse](#id05)
+
+---
 
 ## Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 
@@ -70,7 +73,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 
 ## Desafio dia 04 - Botão Animado <a name="id04"></a>
 
-![Dia 03](./assets/dia04.gif)
+![Dia 04](./assets/dia04.gif)
 
 [Meu código](./Desafios/dia04)
 
@@ -81,3 +84,17 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 - _[inline-block](https://www.w3schools.com/css/css_inline-block.asp)_
 - _[svg](https://www.w3schools.com/graphics/svg_intro.asp)_
 - _[svg rectangle](https://www.w3schools.com/graphics/svg_rect.asp)_
+
+## Desafio dia 05 - Botão Efeito Pulse <a name="id05"></a>
+
+![Dia 05](./assets/dia05.gif)
+
+[Meu código](./Desafios/dia05)
+
+[Post LinkedIn](https://www.linkedin.com/posts/williamjesusdev_30diasdecss-html-html5-activity-6695472301879656448-Iqfp)
+
+##### O que eu aprendi
+
+- _[variables](https://www.w3schools.com/css/css3_variables.asp)_
+- _[animations](https://www.w3schools.com/css/css3_animations.asp)_
+- _[rgba colors](https://www.w3schools.com/css/css3_colors.asp#:~:text=RGBA%20COLORS)_

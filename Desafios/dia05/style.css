@@ -1,0 +1,55 @@
+:root {
+  --primary-color: #ffff00;
+}
+
+* {
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  height: 100vh;
+  background-color: #363636;
+
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  height: 100px;
+  width: 200px;
+  border: 10px solid var(--primary-color);
+  border-radius: 10px;
+
+  cursor: pointer;
+
+  color: #000000;
+  font-size: 34px;
+  font-weight: 900;
+  text-transform: uppercase;
+
+  background: var(--primary-color);
+}
+
+button:hover {
+  animation: pulse 1.5s infinite linear;
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 20px rgba(255, 255, 0, 0);
+  }
+
+  50% {
+    box-shadow: 0 0 0 40px rgba(255, 255, 0, 0.7);
+  }
+
+  100% {
+    box-shadow: 0 0 0 50px rgba(255, 255, 0, 0);
+  }
+}
