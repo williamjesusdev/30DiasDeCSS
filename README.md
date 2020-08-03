@@ -25,6 +25,8 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 - [Dia 03 - Mudança de cor de texto quando entra em outra div](#id03)
 - [Dia 04 - Botão Animado](#id04)
 - [Dia 05 - Botão Efeito Pulse](#id05)
+- [Dia 06 - Efeito Lightning Text](#id06)
+- [Dia 07 - Preloader Animado](#id07)
 
 ---
 
@@ -112,3 +114,17 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 - _[animation-delay](https://www.w3schools.com/css/css3_animations.asp#:~:text=Delay%20an%20Animation)_
 - _[nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)_
 - _[flex-direction](https://www.w3schools.com/css/css3_flexbox.asp#flex-direction)_
+
+## Desafio dia 07 - Preloader Animado <a name="id07"></a>
+
+![Dia 07](./assets/dia07.gif)
+
+[Meu código](./Desafios/dia07)
+
+[Post LinkedIn](https://www.linkedin.com/posts/williamjesusdev_30diasdecss-html-html5-activity-6696129300782968832-YmMG)
+
+##### O que eu aprendi
+
+- _[display grid](https://www.w3schools.com/css/css_grid.asp)_
+- _[pseudo elements](https://www.w3schools.com/css/css_pseudo_elements.asp)_
+- _[::after](https://www.w3schools.com/cssref/sel_after.asp)_

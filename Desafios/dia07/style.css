@@ -1,0 +1,139 @@
+:root {
+  --first-color: #05c772;
+  --second-color: #f04242;
+  --third-color: #2186d0;
+  --fourth-color: #d053e9;
+}
+
+* {
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  height: 100vh;
+  background-color: #1c1b1c;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loader {
+  height: 80vh;
+  width: 80vh;
+  border: 2px solid whitesmoke;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+
+  align-items: center;
+  justify-items: center;
+
+  animation: rotate 3s ease infinite;
+}
+
+.triangle {
+  width: 0px;
+  height: 0px;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 200px solid var(--first-color);
+  position: relative;
+}
+
+.triangle::after {
+  content: "";
+  width: 0px;
+  height: 0px;
+  border-left: 70px solid transparent;
+  border-right: 70px solid transparent;
+  border-bottom: 140px solid #1c1b1c;
+  position: absolute;
+  top: 40px;
+  left: -70px;
+}
+
+.circle {
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  border: 20px solid var(--second-color);
+}
+
+.cross {
+  background: var(--third-color);
+  height: 250px;
+  width: 20px;
+  transform: rotateZ(45deg);
+}
+
+.cross:after {
+  background: var(--third-color);
+  content: "";
+  height: 20px;
+  left: -115px;
+  position: absolute;
+  top: 115px;
+  width: 250px;
+}
+
+.square {
+  width: 160px;
+  height: 160px;
+  border: 20px solid var(--fourth-color);
+}
+
+.loader div:nth-child(1) {
+  animation: loader 2s linear infinite;
+  animation-delay: 0;
+}
+
+.loader div:nth-child(2) {
+  animation: loader 2s linear infinite;
+  animation-delay: .5s;
+}
+
+.loader div:nth-child(3) {
+  animation: loaderCross 2s linear infinite;
+  animation-delay: 1.5s;
+}
+
+.loader div:nth-child(4) {
+  animation: loader 2s linear infinite;
+  animation-delay: 1s;
+}
+
+@keyframes loader {
+  80% {
+    transform: scale(1, 1);
+  }
+
+  100% {
+    transform: scale(1.3, 1.3);
+  }
+}
+
+@keyframes loaderCross {
+  80% {
+    transform: scale(1, 1) rotate(45deg);
+  }
+
+  100% {
+    transform: scale(1.3, 1.3) rotate(45deg);
+  }
+}
+
+@keyframes rotate {
+  90% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
