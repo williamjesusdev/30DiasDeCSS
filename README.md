@@ -98,3 +98,17 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 - _[variables](https://www.w3schools.com/css/css3_variables.asp)_
 - _[animations](https://www.w3schools.com/css/css3_animations.asp)_
 - _[rgba colors](https://www.w3schools.com/css/css3_colors.asp#:~:text=RGBA%20COLORS)_
+
+## Desafio dia 06 - Efeito Lightning Text <a name="id06"></a>
+
+![Dia 06](./assets/dia06.gif)
+
+[Meu código](./Desafios/dia06)
+
+[Post LinkedIn](https://www.linkedin.com/posts/williamjesusdev_30diasdecss-html-html5-activity-6695864131926425600-eBmT)
+
+##### O que eu aprendi
+
+- _[animation-delay](https://www.w3schools.com/css/css3_animations.asp#:~:text=Delay%20an%20Animation)_
+- _[nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)_
+- _[flex-direction](https://www.w3schools.com/css/css3_flexbox.asp#flex-direction)_
