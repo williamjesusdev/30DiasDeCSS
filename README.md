@@ -27,6 +27,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 - [Dia 05 - Botão Efeito Pulse](#id05)
 - [Dia 06 - Efeito Lightning Text](#id06)
 - [Dia 07 - Preloader Animado](#id07)
+- [Dia 08 - Coração Batendo](#id08)
 
 ---
 
@@ -128,3 +129,18 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 - _[display grid](https://www.w3schools.com/css/css_grid.asp)_
 - _[pseudo elements](https://www.w3schools.com/css/css_pseudo_elements.asp)_
 - _[::after](https://www.w3schools.com/cssref/sel_after.asp)_
+
+## Desafio dia 08 - Preloader Animado <a name="id08"></a>
+
+![Dia 08](./assets/dia08.gif)
+
+[Meu código](./Desafios/dia08)
+
+[Post LinkedIn](https://www.linkedin.com/posts/williamjesusdev_30diasdecss-html-html5-activity-6696442051057205248-liOx)
+
+##### O que eu aprendi
+
+- _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
+- _[::after](https://www.w3schools.com/cssref/sel_after.asp)_
+- _[animations](https://www.w3schools.com/css/css3_animations.asp)_
+- _[filter](https://www.w3schools.com/cssref/css3_pr_filter.asp)_
