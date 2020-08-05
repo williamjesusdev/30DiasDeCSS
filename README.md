@@ -28,6 +28,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 - [Dia 06 - Efeito Lightning Text](#id06)
 - [Dia 07 - Preloader Animado](#id07)
 - [Dia 08 - Coração Batendo](#id08)
+- [Dia 09 - Pendulo de Newton](#id09)
 
 ---
 
@@ -130,7 +131,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 - _[pseudo elements](https://www.w3schools.com/css/css_pseudo_elements.asp)_
 - _[::after](https://www.w3schools.com/cssref/sel_after.asp)_
 
-## Desafio dia 08 - Preloader Animado <a name="id08"></a>
+## Desafio dia 08 - Coração batendo <a name="id08"></a>
 
 ![Dia 08](./assets/dia08.gif)
 
@@ -144,3 +145,19 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/rsK6rhK
 - _[::after](https://www.w3schools.com/cssref/sel_after.asp)_
 - _[animations](https://www.w3schools.com/css/css3_animations.asp)_
 - _[filter](https://www.w3schools.com/cssref/css3_pr_filter.asp)_
+
+## Desafio dia 09 - Pendulo de Newton <a name="id09"></a>
+
+![Dia 09](./assets/dia09.gif)
+
+[Meu código](./Desafios/dia09)
+
+[Post LinkedIn](https://www.linkedin.com/posts/williamjesusdev_30diasdecss-html-html5-activity-6696852409056022529-gERW)
+
+##### O que eu aprendi
+
+- _[::before](https://www.w3schools.com/cssref/sel_before.asp)_
+- _[::after](https://www.w3schools.com/cssref/sel_after.asp)_
+- _[:first-child](https://www.w3schools.com/cssref/sel_firstchild.asp)_
+- _[:last-child](https://www.w3schools.com/cssref/sel_lastchild.asp)_
+- _[animations](https://www.w3schools.com/css/css3_animations.asp)_
