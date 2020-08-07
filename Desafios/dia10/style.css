@@ -1,0 +1,84 @@
+:root {
+  font-size: 1vh;
+  --my-color: #e74c3c;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  height: 100rem;
+  background-color: #1c1b1c;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loader {
+  color: #999;
+  font: normal 8rem Montserrat, sans-serif;
+  line-height: 10rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loader p {
+  height: 10rem;
+  margin-right: 2.4rem;
+}
+
+.loader span {
+  float: left;
+  height: 10rem;
+  overflow: hidden;
+  position: relative;
+}
+
+.loader .innerLoader {
+  display: inline-block;
+  color: var(--my-color);
+  position: relative;
+  white-space: nowrap;
+  top: 0;
+  left: 0;
+
+  animation: move 8s ease-in-out infinite;
+  animation-delay: 1s;
+}
+
+.loader .innerLoader::after {
+  content: "";
+}
+
+@keyframes move {
+  0% {
+    top: 0px;
+  }
+
+  20% {
+    top: -10rem;
+  }
+
+  40% {
+    top: -20rem;
+  }
+
+  60% {
+    top: -30rem;
+  }
+
+  80% {
+    top: -40rem;
+  }
+
+  100% {
+    top: -40rem;
+  }
+}
